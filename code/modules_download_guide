@@ -1,0 +1,10 @@
+#to download tkinter
+pip install tk
+
+#to download pptx
+pip install python-pptx
+
+#to download pandas
+pip install pandas
+
+#On some systems, you might need to use python3 and pip3 instead of python and pip. 
