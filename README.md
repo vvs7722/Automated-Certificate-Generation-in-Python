@@ -1,4 +1,7 @@
 # Automated-Certificate-Generation-in-Python
+# python
+# tkinter
+# Bulk-Certificate-Generation
 👋 I'm excited to share with you a Python program I recently developed to streamline the process of generating certificates in bulk. This program is designed to automate the creation of certificates based on information provided in an Excel sheet and a PowerPoint template.
 
 Features:
